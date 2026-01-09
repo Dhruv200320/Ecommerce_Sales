@@ -99,4 +99,4 @@ Payment Strategy: Understand customer payment preferences to improve conversion 
 Decision Support: Enables management to make data-driven operational and strategic decisions
 
 6. Screenshots / Demo
-   Example: [Dashboard Preview] ()
+   Example: [Dashboard Preview] (https://github.com/Dhruv200320/Ecommerce_Sales/blob/main/Ecommerce_Sales.PNG)
