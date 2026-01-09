@@ -75,7 +75,7 @@ Raw datasets alone do not provide clear, actionable insights.
 
 ## 📷 Dashboard Preview
 
-_Add screenshots of the dashboard here
+_Example: ![Dashboard Preview].(https://github.com/Dhruv200320/Ecommerce_Sales/blob/main/Ecommerce_Sales.PNG)
 
 ---
 
